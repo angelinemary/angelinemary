@@ -1,6 +1,6 @@
 # Hi, I'm Angeline Mary 👋
 
-## 💼 Data Analyst | SQL | Power BI | Excel | Python
+## 💼 Data Analyst | SQL | Power BI | Excel | Python | open for new oppurtunities
 
 I am a data-driven professional transitioning into Data Analytics with hands-on experience in SQL, Power BI, Excel, and Python.  
 I enjoy transforming raw data into actionable insights that support business decision-making.
